@@ -1,0 +1,9 @@
+﻿<Application x:Class="Proefwerk_TSO_Deel1_Opdracht2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Proefwerk_TSO_Deel1_Opdracht2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
